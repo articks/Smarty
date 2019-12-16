@@ -7,10 +7,10 @@
  */
 
 /**
- * Smarty wraplinks modifier plugin
+ * Smarty url2iframe modifier plugin
  *
  * Type:     modifier<br>
- * Name:     wraplinks<br>
+ * Name:     url2iframe<br>
  *
  * @param string $url       input text string
  * @return string |void
