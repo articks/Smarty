@@ -6,7 +6,7 @@
  */
 
 /**
- * Smarty плагин для вывода русских дат
+ * Smarty плагин для получения части строки utf8
  *
  * Type:     modifier<br>
  * Name:     utf8substr<br>
